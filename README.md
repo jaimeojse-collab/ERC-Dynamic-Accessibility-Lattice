@@ -1,5 +1,6 @@
 # ERC-Dynamic-Accessibility-Lattice
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20401824.svg)](https://doi.org/10.5281/zenodo.20401824)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
 
 **Exploratory computational notebook on dynamic accessibility under perturbation–recovery constraints.**
@@ -90,9 +91,12 @@ Instead, the framework asks a narrower falsification-oriented question:
 
 ## Citation
 
-If using or referencing this repository, please cite the associated Zenodo release once available.
 
-A DOI-linked citation will be added after publication.
+If using or referencing this repository, please cite the Zenodo release:
+
+Ojeda, J. (2026). *ERC Dynamic Accessibility Lattice* (Version 1.0.0). Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.20401824
 
 ---
 
